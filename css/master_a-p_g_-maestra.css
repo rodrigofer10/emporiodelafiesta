@@ -1,0 +1,36 @@
+#u385
+{
+	background: transparent url("../images/banner.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u409
+{
+	background: transparent url("../images/banner2.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u114-4
+{
+	color: #FFFFFF;
+	background-color: transparent;
+	line-height: 22px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+	text-align: center;
+}
+
+
+
+
+
+@media (max-width: 320px)
+{
+	#u409_align_to_page
+	{
+		max-width: 320px;
+	}
+
+}
+
