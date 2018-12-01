@@ -1,12 +1,12 @@
 #u385
 {
-	background: transparent url("../images/banner.png") no-repeat center center;
+	background: transparent url("../images/banner.png") no-repeat center top;
 	background-size: contain;
 }
 
 #u409
 {
-	background: transparent url("../images/banner2.png") no-repeat center center;
+	background: transparent url("../images/banner2.png") no-repeat center top;
 	background-size: contain;
 }
 
@@ -14,14 +14,12 @@
 {
 	color: #FFFFFF;
 	background-color: transparent;
-	line-height: 22px;
+	line-height: 29px;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
-	font-size: 18px;
+	font-size: 24px;
 	text-align: center;
 }
-
-
 
 
 

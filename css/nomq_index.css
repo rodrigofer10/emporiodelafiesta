@@ -10,8 +10,8 @@
 
 	#page
 	{
-		min-height: 1202px;
-		padding-bottom: 82px;
+		min-height: 1203px;
+		padding-bottom: 81px;
 		max-width: 960px;
 	}
 
@@ -29,7 +29,7 @@
 
 	#u125
 	{
-		min-height: 623.9499999999989px;
+		min-height: 2579.8999999999996px;
 		background: -webkit-gradient(linear, left center, right center, from(#53718B),color-stop(100%, #6D4689));
 		background: -webkit-linear-gradient(left,#53718B ,#6D4689 100%);
 		background: linear-gradient(to right,#53718B ,#6D4689 100%);
@@ -40,7 +40,7 @@
 	{
 		max-width: 960px;
 		padding-top: 12px;
-		padding-bottom: 35px;
+		padding-bottom: 50px;
 	}
 
 	#u122-4
@@ -56,33 +56,63 @@
 		left: 1.98%;
 	}
 
-	#u131
+	#u763
 	{
-		width: 430px;
-		height: 302px;
-		background-image: url("../images/inflable.jpg");
-		-pie-background: url("../images/inflable-ieu131-fr.png");
-		margin-top: 27px;
-		left: 3.75%;
+		background-image: url("../images/imagen.jpg");
+		width: 95.94%;
+		left: 1.98%;
 	}
 
-	#u142-4
-	{
-		margin-top: 27px;
-		width: 94.17%;
-		left: 3.75%;
-	}
-
-	#u148-4
+	#u142-4,#u148-4
 	{
 		margin-top: 17px;
 		width: 94.17%;
 		left: 3.75%;
 	}
 
+	#u1464
+	{
+		background-image: url("../images/imagen1.jpg");
+		margin-top: 28px;
+		width: 95.94%;
+		left: 1.98%;
+	}
+
+	#u1473
+	{
+		background-image: url("../images/imagen2.jpg");
+		margin-top: 28px;
+		width: 95.94%;
+		left: 1.98%;
+	}
+
+	#u1485
+	{
+		background-image: url("../images/imagen3.jpg");
+		margin-top: 27px;
+		width: 95.94%;
+		left: 1.98%;
+	}
+
+	#u1497
+	{
+		background-image: url("../images/imagen4.jpg");
+		margin-top: 31px;
+		width: 95.94%;
+		left: 1.98%;
+	}
+
+	#u1509
+	{
+		background-image: url("../images/imagen5.jpg");
+		margin-top: 30px;
+		width: 95.94%;
+		left: 1.98%;
+	}
+
 	#u125-bw
 	{
-		min-height: 623.9499999999989px;
+		min-height: 2579.8999999999996px;
 		margin-top: 18px;
 	}
 
