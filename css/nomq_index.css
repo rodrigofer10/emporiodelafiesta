@@ -27,26 +27,24 @@
 		margin-left: 2.09%;
 	}
 
+	#pu125
+	{
+		margin-top: 18px;
+	}
+
 	#u125
 	{
-		min-height: 2579.8999999999996px;
+		min-height: 673px;
 		background: -webkit-gradient(linear, left center, right center, from(#53718B),color-stop(100%, #6D4689));
 		background: -webkit-linear-gradient(left,#53718B ,#6D4689 100%);
 		background: linear-gradient(to right,#53718B ,#6D4689 100%);
-		padding-bottom: 0px;
 	}
 
 	#u125_align_to_page
 	{
 		max-width: 960px;
 		padding-top: 12px;
-		padding-bottom: 50px;
-	}
-
-	#u122-4
-	{
-		width: 95.94%;
-		left: 1.98%;
+		padding-bottom: 47px;
 	}
 
 	#u128-4
@@ -56,64 +54,59 @@
 		left: 1.98%;
 	}
 
-	#u763
+	#u142-4
 	{
-		background-image: url("../images/imagen.jpg");
-		width: 95.94%;
+		margin-top: 411px;
+		width: 95.42%;
 		left: 1.98%;
 	}
 
-	#u142-4,#u148-4
+	#u122-4,#u148-4
 	{
-		margin-top: 17px;
-		width: 94.17%;
-		left: 3.75%;
-	}
-
-	#u1464
-	{
-		background-image: url("../images/imagen1.jpg");
-		margin-top: 28px;
-		width: 95.94%;
-		left: 1.98%;
-	}
-
-	#u1473
-	{
-		background-image: url("../images/imagen2.jpg");
-		margin-top: 28px;
-		width: 95.94%;
-		left: 1.98%;
-	}
-
-	#u1485
-	{
-		background-image: url("../images/imagen3.jpg");
-		margin-top: 27px;
-		width: 95.94%;
-		left: 1.98%;
-	}
-
-	#u1497
-	{
-		background-image: url("../images/imagen4.jpg");
-		margin-top: 31px;
-		width: 95.94%;
-		left: 1.98%;
-	}
-
-	#u1509
-	{
-		background-image: url("../images/imagen5.jpg");
-		margin-top: 30px;
 		width: 95.94%;
 		left: 1.98%;
 	}
 
 	#u125-bw
 	{
-		min-height: 2579.8999999999996px;
-		margin-top: 18px;
+		min-height: 673px;
+	}
+
+	#slideshowu1668
+	{
+		height: 400px;
+		margin-top: 113px;
+		margin-left: 50%;
+		left: -251px;
+	}
+
+	#u1681,#u1682,#u1829,#u1860,#u1891,#u1922,#u1953
+	{
+		width: 480px;
+		height: 360px;
+	}
+
+	#u1682_img,#u1829_img,#u1860_img,#u1891_img,#u1922_img,#u1953_img
+	{
+		margin-left: -11px;
+		margin-right: -12px;
+	}
+
+	#u1670-4
+	{
+		top: 360px;
+		left: 30px;
+	}
+
+	#u1679-4
+	{
+		top: 360px;
+	}
+
+	#u1680-4
+	{
+		top: 360px;
+		left: 98px;
 	}
 
 	#u114-4

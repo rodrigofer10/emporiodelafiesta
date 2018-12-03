@@ -12,14 +12,16 @@
 
 #u114-4
 {
-	color: #FFFFFF;
 	background-color: transparent;
-	line-height: 29px;
-	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
-	font-size: 24px;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-family: bebas-neue, sans-serif;
 	text-align: center;
+	font-size: 24px;
 }
+
+
 
 
 
